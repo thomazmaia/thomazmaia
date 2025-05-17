@@ -10,6 +10,8 @@
 ###### :round_pushpin: Machine Learning
 ###### :round_pushpin: Pattern Recognition
 ###### :round_pushpin: Natural Language Processing
+###### :round_pushpin: Large Language Models
+###### :round_pushpin: Generative AI
 
 
 
